@@ -4,8 +4,8 @@ import Abstract.Entity;
 
 public class Game extends Entity {
 
-    String name;
-    double price;
+    private String name;
+    private double price;
 
     public Game(String name, double price) {
 
