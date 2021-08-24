@@ -23,7 +23,6 @@ public class Campaign extends Game {
         return this.getPrice() - (this.getPrice() * this.discountRate / 100);
     }
 
-
 }
 
 
